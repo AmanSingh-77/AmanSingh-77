@@ -29,12 +29,12 @@ education:
 
 fields_of_interests:
   [
-    "Web Development",
-    "UI/UX",
-    "Game Development",
+    "Software Development",
+    "Graphic Design",
+    "Problem Solving",
   ]
 
-hobbies: ["Gaming", "Music", "Drawing", "Art", "Singing"]
+hobbies: ["Gaming", "Music", "Sports"]
 
   
 ---  

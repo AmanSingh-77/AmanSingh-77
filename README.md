@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-<a href="[https://https://www.linkedin.com/in/AmanSingh-77 //](https://www.linkedin.com/in/amanpreet-singh-857b11221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+<a href="https://www.linkedin.com/in/amanpreet-singh-857b11221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://www.instagram.com/aman._.030/">

@@ -21,7 +21,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 yaml
-name: Aryan Sharma
+name: Amanpreet Singh
 located_in: Punjab, India
 current_job: Undergraduate Student
 education:
